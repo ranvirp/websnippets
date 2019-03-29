@@ -46,7 +46,7 @@ img.emoji {
 var psSpeed = new Array(); var psLoop = new Array();/* ]]> */
 </script><meta name="tec-api-version" content="v1">
 <meta name="tec-api-origin" content="https://grad.berkeley.edu">
-<link rel="https://theeventscalendar.com" href="events/v1/" />	
+
 <link rel="canonical" href="list/">
 <script type="text/javascript" id="sns_global_scripts_in_head">$(document).ready(function(){
     if (location.hash) {
